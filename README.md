@@ -10,9 +10,9 @@
     Analysis Reports (.pdf): Detailed documentation of findings.
 
 ##### Tools Used:
-    Flare VM
-    Wireshark
-    VirusTotal
-    Filemyhash
-    HxD
-    cmd.exe
+<img src="https://img.shields.io/badge/-Flare%20VM-8B0000?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+<img src="https://img.shields.io/badge/-FileMyHash-333333?style=for-the-badge&logo=hashnode&logoColor=white" />
+<img src="https://img.shields.io/badge/-HxD%20Hex%20Editor-800080?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-cmd.exe-000000?style=for-the-badge&logo=windows&logoColor=white" />
